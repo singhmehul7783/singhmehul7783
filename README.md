@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
+<div align="center">
 <br>
 
 ```
@@ -14,6 +14,8 @@
 ```
 
 <br>
+</div>
+
 
 <a href="https://github.com/singhmehul7783">
 </a>
