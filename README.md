@@ -1,20 +1,23 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-<div align="center">
 <br>
 
 ```
-  MEHUL SINGH
-  ───────────────────────────────────────────────
-  Co-Founder & Chief Technology Officer
-  Accukhoj Technologies Private Limited
-  ───────────────────────────────────────────────
-  AI & Systems Researcher | Jaipur, India
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║     ███╗   ███╗███████╗██╗  ██╗██╗   ██╗██╗                 ║
+  ║     ████╗ ████║██╔════╝██║  ██║██║   ██║██║                 ║
+  ║     ██╔████╔██║█████╗  ███████║██║   ██║██║                 ║
+  ║     ██║╚██╔╝██║██╔══╝  ██╔══██║██║   ██║██║                 ║
+  ║     ██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝███████╗            ║
+  ║     ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝            ║
+  ║                         S I N G H                            ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
-</div>
 
 
 <a href="https://github.com/singhmehul7783">
