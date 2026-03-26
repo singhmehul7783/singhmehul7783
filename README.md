@@ -88,6 +88,76 @@ principle = "Most AI systems are black boxes. We build glass boxes."
 
 <br/>
 
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=singhmehul7783&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=c9d1d9&currStreakLabel=8B949E&sideLabels=8B949E" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=singhmehul7783&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "Most AI systems are black boxes.                          │
+│    We are building glass boxes —                             │
+│    where every decision is visible,                          │
+│    every output is traceable,                                │
+│    and trust is not optional, it is architectural."          │
+│                                                              │
+│                        — Accukhoj Technologies, Jaipur       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>└─────────────────────────┴────────────────────────────┴──────────────────────────────┘
+```
+
+<br/>
+
+<br/>
+
+## `$ neofetch --skills`
+
+```
+mehul@accukhoj
+--------------
+Languages       Python, Java, C
+AI / ML         Transformers, NLP, Tokenizer Systems, Dataset Engineering
+Systems         DSA, HPC, Concurrency, Entropy Systems
+Research        Optimality Theory Modelling, Acoustic Analysis (Praat)
+Tools           Git, Linux, LaTeX
+```
+
+<br/>
+
+<br/>
+
+## `$ cat /etc/accukhoj.conf`
+
+```ini
+[company]
+name     = Accukhoj Technologies Private Limited
+role     = Co-Founder & Chief Technology Officer
+domain   = Trustworthy AI · Explainable Intelligence · Logic-Constrained Reasoning
+product  = MyLCMA CODR — AI for Software Development
+location = Jaipur, Rajasthan, India
+web      = https://accukhoj.tech
+
+[philosophy]
+principle = "Most AI systems are black boxes. We build glass boxes."
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+<br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhmehul7783&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=8b949e&text_color=c9d1d9&ring_color=161b22" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=singhmehul7783&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=c9d1d9&currStreakLabel=8B949E&sideLabels=8B949E" />
 
