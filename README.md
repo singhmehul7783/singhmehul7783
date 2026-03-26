@@ -48,7 +48,7 @@
 │  Trustworthy AI Systems │  Transformer Architectures │  Natural Language Processing │
 │  Logic-Constrained      │  Tokenization Systems      │  Entropy & Randomness        │
 │  Reasoning              │  Dataset Engineering       │  Engineering                 │
-│  High Performance       │  Machine Learning Theory   │  Explainable Intelligence    │
+│  High Performance       │  Machine Learning          │  Explainable Intelligence    │
 │  Computing              │                            │                              │
 └─────────────────────────┴────────────────────────────┴──────────────────────────────┘
 ```
