@@ -55,13 +55,23 @@
 
 <br/>
 
-## `$ cat ./featured/BBRES-RNG`
+## `$ cat ./featured/Work`
+
+> **LCMA - Learning-Constrained Model Architecture**
+>
+> The flagship product of Accukhoj Technologies. A logic-constrained AI system for software development with verifiable reasoning, minimal hallucination, and high first-pass accuracy.LCMA is being actively developed and deployed at Accukhoj Technologies, where I lead architecture and system design.
+
+`python` `NLP` `transformer architecture` `tokenization system`
+
+[![This is a proprietary project being developed for Accukhoj Technologies.Public code is not available.]]
+
+<br/>
 
 > **Bit-Based Randomized Entropy System - Scheduler-Based RNG**
 >
 > BBRES-RNG is a custom-built Java RNG that takes a fundamentally different approach to generating random numbers. Instead of relying on standard library algorithms or fixed mathematical seeds, it deliberately creates controlled concurrency and treats the unpredictable timing behavior of the operating system's thread scheduler as its entropy source.
 
-`java` `entropy` `concurrency` `multithreading` `bitwise-operations` `randomness`
+`java` `entropy` `concurrency` `multithreading` `high performance computing` `Operating Systems`
 
 [![View Source](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhmehul7783/Bit-Based-Randomized-Entropy-System-Scheduler-Based-RNG)
 
