@@ -30,7 +30,7 @@ structurally impossible, not just statistically unlikely.
 Architecting logic-constrained inference systems, custom
 tokenizers, and explainable AI pipelines at Accukhoj Technologies.
 
-Most AI systems are black boxes. I build glass boxes —
+Most AI systems are black boxes. I build glass boxes -
 where every decision is visible, every output is traceable,
 and trust is not optional. It is architectural.
 ────────────────────────────────────────────────────────────────
@@ -58,7 +58,7 @@ and trust is not optional. It is architectural.
 
 **LCMA** &nbsp; `proprietary`
 
-Learning-Constrained Model Architecture — the flagship system at Accukhoj Technologies. Logic-constrained AI for software development with verifiable reasoning, minimal hallucination, and high first-pass accuracy.
+Learning-Constrained Model Architecture - the flagship system at Accukhoj Technologies. Logic-constrained AI for software development with verifiable reasoning, minimal hallucination, and high first-pass accuracy.
 
 `python` &nbsp; `NLP` &nbsp; `transformers` &nbsp; `tokenization`
 
@@ -69,7 +69,7 @@ Learning-Constrained Model Architecture — the flagship system at Accukhoj Tech
 
 **BBRES-RNG** &nbsp; `open source`
 
-Bit-Based Randomized Entropy System — a custom Java RNG that uses controlled concurrency and OS thread scheduler timing as its entropy source. No fixed seeds. No standard library algorithms.
+Bit-Based Randomized Entropy System - a custom Java RNG that uses controlled concurrency and OS thread scheduler timing as its entropy source. No fixed seeds. No standard library algorithms.
 
 `java` &nbsp; `entropy` &nbsp; `concurrency` &nbsp; `HPC`
 
@@ -103,7 +103,7 @@ ENV         Git · GitHub · Linux
 [config]
 name      = Accukhoj Technologies Private Limited
 role      = Co-Founder & Chief Technology Officer
-product   = MyLCMA CODR — AI for Software Development
+product   = MyLCMA CODR - AI for Software Development
 domain    = Trustworthy AI · Explainable Intelligence · Logic-Constrained Reasoning
 location  = Jaipur, Rajasthan, India
 web       = https://accukhoj.tech
