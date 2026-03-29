@@ -84,9 +84,7 @@ Bit-Based Randomized Entropy System - a custom Java RNG that uses controlled con
 ### §3 &nbsp; Toolchain
 
 ```
-LANG        ██████████████████████████████████░░░░  Python
-            ██████████████████████████░░░░░░░░░░░░  Java
-            ████████████████░░░░░░░░░░░░░░░░░░░░░░  C
+LANG        Java · Python · C
 
 DOMAIN      ML · NLP · Transformer Architectures · Tokenization Systems
 
