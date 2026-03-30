@@ -65,17 +65,6 @@ Learning-Constrained Model Architecture - the flagship system at Accukhoj Techno
 <sub>⬒ Proprietary · Accukhoj Technologies</sub>
 
 </td>
-<td width="50%" valign="top">
-
-**BBRES-RNG** &nbsp; `open source`
-
-Bit-Based Randomized Entropy System - a custom Java RNG that uses controlled concurrency and OS thread scheduler timing as its entropy source. No fixed seeds. No standard library algorithms.
-
-`java` &nbsp; `entropy` &nbsp; `concurrency` &nbsp; `HPC`
-
-<sub>⬒ [github.com/singhmehul7783/BBRES-RNG](https://github.com/singhmehul7783/Bit-Based-Randomized-Entropy-System-Scheduler-Based-RNG)</sub>
-
-</td>
 </tr>
 </table>
 
