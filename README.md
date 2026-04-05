@@ -1,16 +1,19 @@
 <div align="center">
 
+<br/>
+
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   M E H U L   S I N G H                                     ║
-  ║                                                              ║
-  ║   AI & NLP Systems Researcher                                ║
-  ║   Co-Founder & CTO · Accukhoj Technologies                  ║
-  ║                                                              ║
-  ║   "building AI that doesn't lie"                             ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   mehul singh                                               │
+  │   ‾‾‾‾‾‾‾‾‾‾‾                                              │
+  │   AI & NLP Systems Researcher                               │
+  │   Co-Founder & CTO · Accukhoj Technologies                 │
+  │                                                             │
+  │   > building AI that doesn't lie                            │
+  │   > building RNGs that don't predict                        │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
 <a href="https://mehul.engineer"><img src="https://img.shields.io/badge/mehul.engineer-0D1117?style=flat-square&logo=safari&logoColor=58a6ff" alt="Portfolio"/></a>&nbsp;
@@ -23,17 +26,20 @@
 <br/>
 
 ```
-ABSTRACT
-────────────────────────────────────────────────────────────────
-AI & NLP Systems Researcher focused on making hallucinations
-structurally impossible, not just statistically unlikely.
-Architecting logic-constrained inference systems, custom
-tokenizers, and explainable AI pipelines at Accukhoj Technologies.
+  ABSTRACT
+  ────────────────────────────────────────────────────────────────
+  AI & NLP Systems Researcher focused on making hallucinations
+  structurally impossible — not just statistically unlikely.
 
-Most AI systems are black boxes. I build glass boxes -
-where every decision is visible, every output is traceable,
-and trust is not optional. It is architectural.
-────────────────────────────────────────────────────────────────
+  Architecting logic-constrained inference systems, custom
+  tokenizers, and explainable AI pipelines at Accukhoj Technologies.
+  Researching entropy systems and scheduler-based randomness
+  at the intersection of concurrency and information theory.
+
+  Most AI systems are black boxes.
+  I build glass boxes — where every decision is visible,
+  every output is traceable, and trust is architectural.
+  ────────────────────────────────────────────────────────────────
 ```
 
 <br/>
@@ -41,16 +47,16 @@ and trust is not optional. It is architectural.
 ### §1 &nbsp; Research Interests
 
 ```
-  trustworthy AI systems ──── logic-constrained reasoning ──── explainable intelligence
-          │                            │                               │
-  transformer architectures    tokenization systems          entropy & randomness eng.
-          │                            │                               │
-  dataset engineering ──────── natural language processing ── high performance computing
+  trustworthy AI ──── logic-constrained reasoning ──── explainable intelligence
+        │                         │                              │
+  transformer arch.        tokenization systems          entropy & randomness
+        │                         │                              │
+  dataset engineering ──── natural language processing ── high-performance computing
 ```
 
 <br/>
 
-### §2 &nbsp; Featured Work
+### §2 &nbsp; Work
 
 <table>
 <tr>
@@ -58,11 +64,28 @@ and trust is not optional. It is architectural.
 
 **LCMA** &nbsp; `proprietary`
 
-Learning-Constrained Model Architecture - the flagship system at Accukhoj Technologies. Logic-constrained AI for software development with verifiable reasoning, minimal hallucination, and high first-pass accuracy.
+Learning-Constrained Model Architecture — the flagship system at Accukhoj Technologies. Logic-constrained AI for software development with verifiable reasoning, minimal hallucination, and high first-pass accuracy.
 
 `python` &nbsp; `NLP` &nbsp; `transformers` &nbsp; `tokenization`
 
 <sub>⬒ Proprietary · Accukhoj Technologies</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[BBRES-RNG](https://github.com/singhmehul7783/Bit-Based-Randomized-Entropy-System-Scheduler-Based-RNG)** &nbsp; `research prototype`
+
+Bit-Based Randomized Entropy System — a multithreaded RNG that harvests entropy from OS thread-scheduling non-determinism. No seed. No formula. Every output shaped by live system state.
+
+`java` &nbsp; `concurrency` &nbsp; `entropy` &nbsp; `NIST SP 800-22`
+
+```
+45 / 45 tests passed · 10.9M bits validated
+ML attack accuracy: ~50% (random guessing)
+SHA-256 CSPRNG wrapper validated
+```
+
+<sub>◈ Research · Paper forthcoming</sub>
 
 </td>
 </tr>
@@ -73,13 +96,10 @@ Learning-Constrained Model Architecture - the flagship system at Accukhoj Techno
 ### §3 &nbsp; Toolchain
 
 ```
-LANG        Java · Python · C
-
-DOMAIN      ML · NLP · Transformer Architectures · Tokenization Systems
-
-SYSTEMS     DSA · HPC · Concurrency · Entropy Systems
-
-ENV         Git · GitHub · Linux
+  LANG      Java · Python · C
+  DOMAIN    ML · NLP · Transformer Architectures · Tokenization · Entropy Systems
+  SYSTEMS   DSA · HPC · Concurrency · Randomness Engineering
+  ENV       Git · GitHub · Linux
 ```
 
 <br/>
@@ -90,7 +110,7 @@ ENV         Git · GitHub · Linux
 [config]
 name      = Accukhoj Technologies Private Limited
 role      = Co-Founder & Chief Technology Officer
-product   = MyLCMA CODR - AI for Software Development
+product   = MyLCMA CODR — AI for Software Development
 domain    = Trustworthy AI · Explainable Intelligence · Logic-Constrained Reasoning
 location  = Jaipur, Rajasthan, India
 web       = https://accukhoj.tech
@@ -109,7 +129,7 @@ web       = https://accukhoj.tech
 ```
   ref: HEAD → main
   author: Mehul Singh <hello@mehul.engineer>
-  status: building glass boxes at Accukhoj Technologies
+  status: building glass boxes · one system at a time
 ```
 
 <br/>
