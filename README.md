@@ -1,27 +1,27 @@
-# [Your Name]
-> Systems Engineer | [One-line punchy value proposition, e.g., Architecting low-latency, deterministic infrastructure]
+# Mehul Singh
+### AI & Systems Engineer
+
+> Building systems from first principles.
 
 ---
 
-### 0x00 | System Overview
-First principles thinking applied to [Your Field/Specialty]. I focus on building robust, high-performance systems that prioritize computational efficiency and cryptographic integrity.
+### `0x00` // CORE DIRECTIVE
+I approach problems fundamentally, building systems that are rigorous, measurable, and strictly original. My active research spans computational architectures, advanced network topologies, and entropy engineering.
 
-### 0x01 | Core Competencies
-*   **Systems Architecture:** [Key skill 1]
-*   **Low-Level Optimization:** [Key skill 2]
-*   **Security/Cryptography:** [Key skill 3]
-*   **Language Proficiency:** `C++`, `Rust`, `Python`, `Assembly`
+### `0x01` // ACTIVE RESEARCH & ARCHITECTURES
+* **[ARON (Atomic Radial Overlay Network)](https://qquantt.com/article.html?id=hpc%2F001)**: An ongoing high-performance computing research initiative rethinking distributed system topologies. Instead of bolting fault-tolerance onto a flat mesh, ARON treats structure and resilience as the same mathematical problem.
+* **[BBRES-RNG](https://qquantt.com/article.html?id=sys-eng%2F001)**: A scheduler-based entropy engine. It harvests OS thread scheduler non-determinism as a physical entropy source through controlled race conditions, passing the full 45-test NIST SP 800-22 cryptographic battery.
+* **[Vointhez](https://mehul.engineer/Vointhez_TTS.pdf)**: A foundational speech synthesis engine built entirely from pure rule sets and pattern libraries to systematically map the algorithmic translation of text to phonetic sound.
 
-### 0x02 | Active Research & Projects
-*   **[Project Name]** | [Short impact statement]
-    *   *Stack:* [Tech 1] • [Tech 2]
-*   **[Project Name]** | [Short impact statement]
-    *   *Stack:* [Tech 1] • [Tech 2]
+### `0x02` // TECHNICAL SUBSTRATES
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C |
+| **Systems** | High-Performance Computing, Distributed Topologies, Concurrency, Entropy Systems |
+| **AI & NLP** | Transformer Architectures, Tokenization Algorithms, Dataset Engineering |
 
-### 0x03 | Status & Contact
-- **Status:** Open to research collaboration & select engineering roles.
-- **Connection:** [Link to your website/portfolio]
-- **Inquiry:** [Your Email/Keybase/LinkedIn]
-
----
-`Last updated: 2026-07-14`
+### `0x03` // TELEMETRY
+* **Root** ─────── [mehul.engineer](https://mehul.engineer)
+* **Laboratory** ─ [QQuantt.com](https://qquantt.com)
+* **Ledger** ───── [LinkedIn](https://linkedin.com/in/singhmehul2006)
+* **Comm** ─────── hello@mehul.engineer
